@@ -11,3 +11,6 @@ To retrain, follow Sendex's tutorial with the link above.
 
 To install the requirements for this model, open a command line prompt and  
 pip install -r requirements.txt
+
+Results of our test:
+![test result](http://example.com/images/logo.png)
