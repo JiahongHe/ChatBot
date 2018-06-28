@@ -2,7 +2,8 @@
 This is part of our final project "Smart Wearable Device for Seniors" for course Internet of Things of Columbia University  
 
 The core parts of this chatbot is built and trained by follwing the tutorial  
-Sendex Creating a Chatbot with Deep Learning, Python, and TensorFlow: https://www.youtube.com/playlist?list=PLQVvvaa0QuDdc2k5dwtDTyT9aCja0on8j. 
+Sendex Creating a Chatbot with Deep Learning, Python, and TensorFlow: https://www.youtube.com/playlist?list=PLQVvvaa0QuDdc2k5dwtDTyT9aCja0on8j.  
+and added some basic voice input/output feature, which allows us and the bot to directly talk to each other.
 
 This model is built upon nmt-chatbot by Daniel Kukiela (Github: https://github.com/daniel-kukiela/nmt-chatbot).  
 
