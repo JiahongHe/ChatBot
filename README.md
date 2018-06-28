@@ -13,4 +13,4 @@ To install the requirements for this model, open a command line prompt and
 pip install -r requirements.txt
 
 Results of our test:
-![test result](http://example.com/images/logo.png)
+![test result](https://github.com/JiahongHe/ChatBot/blob/master/test.png)
