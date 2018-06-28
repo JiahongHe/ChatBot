@@ -1,0 +1,12 @@
+tqdm
+colorama
+regex
+python-Levenshtein
+requests
+time
+numpy
+gtts
+pygame
+speech_recognition
+pyaudio
+tensorflow
